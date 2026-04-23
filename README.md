@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects - Advanced Portfolio Edition
+# 🐍 Python Mini Projects
 
 This repository contains 10 beginner-friendly Python projects, covering various fundamental programming concepts such as loops, conditionals, functions, and file handling. Each project is designed to help improve problem-solving skills and reinforce Python basics.
 
